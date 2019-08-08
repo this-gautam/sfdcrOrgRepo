@@ -1,2 +1,4 @@
 # sfdcrOrgRepo
-enlists changes done in developer org
+## author @ gautamsingh
+## reference @ SFDC Framework & Experiments
+## user name - gautam_singh@salesforce.com 
